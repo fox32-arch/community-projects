@@ -20,6 +20,8 @@ This repository is a collection of projects maintained by the community that run
 
 - **[Okameron](https://github.com/TalonFloof/okameron)** by [TalonFloof]: A programming language used in fox32os and fox32rom inspired by Modula-2 and Oberon.
 
+- **[Olea](https://github.com/OliveIsAWord/olea)** by [OliveIsAWord]: A programming language based on Rust that features a novel indentation-based syntax.
+
 [Book-reader]: https://github.com/Book-reader
 [hyenasky]: https://github.com/hyenasky
 [OliveIsAWord]: https://github.com/OliveIsAWord
